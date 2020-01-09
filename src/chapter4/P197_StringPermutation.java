@@ -1,8 +1,6 @@
 package chapter4;
 
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 /**
  * Created by ryder on 2017/7/22.
